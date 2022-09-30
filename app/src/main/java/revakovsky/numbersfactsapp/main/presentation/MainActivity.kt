@@ -1,7 +1,8 @@
-package revakovsky.numbersfactsapp
+package revakovsky.numbersfactsapp.main.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import revakovsky.numbersfactsapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
